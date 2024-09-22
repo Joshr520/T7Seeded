@@ -18,5 +18,5 @@ A COD: BO3 mod that enables seeded rng
 - Launch Black Ops 3 and load into the main menu screen
 - Run the "Run.bat" file
 - A terminal window will popup with on screen information
-- It should have green text and say ```[scripts/shared/duplicaterender_mgr.gsc]: Injected"```
+- It should have green text and say ```[scripts/shared/duplicaterender_mgr.gsc]: Injected```
 - From here you can leave this window open or close it, but don't press a key while this window is open as that will unload it

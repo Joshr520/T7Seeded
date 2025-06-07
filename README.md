@@ -5,7 +5,7 @@ A COD: BO3 mod that enables seeded rng
 
 ## Downloading
 - Download the T7Seeded zip from the latest release [here](https://github.com/Joshr520/T7Seeded/releases/latest)
-- Extract the files to a location of your choosing (I prefer Black Ops 3 root directory in steam)
+- Extract the files to the Black Ops 3 root directory in steam (Example path: E:\Steam\steamapps\common\Call of Duty Black Ops III\T7Seeded)
 - That's it!
 
 ## Generating Seeds
